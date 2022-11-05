@@ -17,7 +17,10 @@ To get an overview of the project, read the [README](README.md). Here are some r
 ## Some guidelines
 
 - We love PHP, so let it shine! 
+- Be positive : PHP is alive, it is "not not dead". 
 - If you don't know any one resource that show it, or that are not already there, write your own! 
 - We love PHP, and we also appreciate other technologies. Don't bring them down. 
-- Be positive : PHP is alive, it is not not dead. 
-- Blogs, vlog, IM, articles, videos : anything goes. 
+- Blogs, vlog, IM, articles, videos, forum : anything goes. 
+- Older content is also OK : PHP has been great for so many years.
+- Search for: great, the best, alive, kicking, modernized, impressive, faster, better, etc. 
+- Any language welcome.
