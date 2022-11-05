@@ -13,3 +13,11 @@ To get an overview of the project, read the [README](README.md). Here are some r
 - Save the change, commit it, push it, and create a PR
 - Wait for the PR to be merged
 - Thank you!
+
+## Some guidelines
+
+- We love PHP, so let it shine! 
+- If you don't know any one resource that show it, or that are not already there, write your own! 
+- We love PHP, and we also appreciate other technologies. Don't bring them down. 
+- Be positive : PHP is alive, it is not not dead. 
+- Blogs, vlog, IM, articles, videos : anything goes. 
